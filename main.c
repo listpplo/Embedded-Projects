@@ -11,11 +11,11 @@ int main (void)
  while(1) {
   /* set pin 5 high to turn led on */
   PORTB = PORTB | (1<<PORTB5);  //set port B
-  _delay_ms(1000);  //wait
+  _delay_ms(BLINK_DELAY_MS);  //wait
  
   /* set pin 5 low to turn led off */
   PORTB = PORTB & ~(1 <<PORTB5);
-  _delay_ms(1000);
+  _delay_ms(BLINK_DELAY_MS);
  }
 }
 
