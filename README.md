@@ -1,2 +1,4 @@
 # Embedded-Projects in Industrial Automation
-I have trying to program to Arduino with C
+Industrial Automation with Arduino , Esp32 ...etc
+*Currently Project Done for 👍* 
++ Rosenburger
