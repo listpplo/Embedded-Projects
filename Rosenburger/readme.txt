@@ -1,1 +1,1 @@
-This is the fixture made for rosenburg.
+This is the wire chopper for Rosenburger.
